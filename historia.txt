@@ -1,5 +1,5 @@
-Esta es la historia de Abel
+Esta es la historia de Abel H.
 
-Nuevo en la programación y el uso de git.
+Nuevo en la programación y el uso de Git.
 
-Tiene 19 años y nació en España.
+Tiene 19 años y nació en Extremadura, España.
